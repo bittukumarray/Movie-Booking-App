@@ -1,2 +1,2 @@
-# Movie-Booking-App
+## Movie-Booking-App
 a app for movie booking
